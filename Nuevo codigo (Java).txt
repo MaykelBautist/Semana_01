@@ -9,7 +9,7 @@ public class Deposito {
     private float altura;
     private String idDeposito;
 
-    //Constructor sin parámetros auxiliar
+    //Constructor CON OTROS PARAMETROS
     public Deposito () { //Lo que hace es llamar al constructor con parámetros pasándole valores vacíos
         this(0,0,"");            } //Cierre del constructor
 
