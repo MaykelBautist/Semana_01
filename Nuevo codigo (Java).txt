@@ -1,6 +1,6 @@
 /* Ejemplo - aprenderaprogramar.com */
 
-/* Esta clase representa un  depósito cilíndrico donde se almacena aceite  */
+/* Esta clase representa un  depósito cilíndrico donde se almacena VINOOOOO */
 
 public class Deposito {    
 
