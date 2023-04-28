@@ -89,5 +89,16 @@ public class Animal
     {
         return edad;
     }
+      //Método para establecer la edad 
+    public void setEdad(int nuevaEdad)
+    {
+        edad = nuevaEdad;
+    }
 
+    //Método para obtener el nombre del animal
+    public String getNombre()
+    {
+        return nombre;
+    }
+    
 } //Cierre de la clase
