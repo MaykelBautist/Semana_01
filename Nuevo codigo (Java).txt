@@ -49,5 +49,45 @@ public class Deposito {
         capacidad = pi * (diametro/2) * (diametro/2) * altura;
         return capacidad;
     }    
+    
+    public class MiClase
+{
+    //Atributos de la clase
+    private String atributo1;
+    private int atributo2;
+    private float atributo3;
+
+    //Constructor con el mismo nombre de la clase
+    public MiClase(){}
+
+    //Métodos de la clase
+    public void metodo1()
+    {
+        //Método vacío
+    }
+
+    public String metodo2()
+    {
+        return "metodo2";
+    }
+}
+
+
+public class Animal
+{
+    private String raza;
+    private String nombre;
+    private int edad;
+
+    public Animal(String nuevoNombre)
+    {
+        nombre = nuevoNombre; //Se le da un nombre al animal
+    }
+
+    //Método para obtener la edad del animal
+    public int getEdad()
+    {
+        return edad;
+    }
 
 } //Cierre de la clase
